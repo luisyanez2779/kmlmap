@@ -1,0 +1,1771 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>OEM_HurricaneEvacuationCenters_01June2013</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://project.wnyc.org/news-maps/hurricane-zones/images/new-dot.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://project.wnyc.org/news-maps/hurricane-zones/images/new-dot.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>HILLCREST HS</b><br>
+160-05 HIGHLAND AVENUE<br>
+JAMAICA, NY 11432<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>HILLCREST HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>160-05 HIGHLAND AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>JAMAICA</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11432.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.802579,40.709673</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>HS OF GRAPHIC COMM ARTS</b><br>
+439 WEST 49 STREET<br>
+NEW YORK, NY 10019<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>HS OF GRAPHIC COMM ARTS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>439 WEST 49 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10019.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.990721,40.763694</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>NEWCOMERS HS</b><br>
+28-01 41ST AVENUE<br>
+LONG ISLAND CITY, NY 11101<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>NEWCOMERS HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>28-01 41ST AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>LONG ISLAND CITY</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11101.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.936812,40.751584</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>JOHN JAY HS</b><br>
+237 7TH AVENUE<br>
+BROOKLYN, NY 11215<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>JOHN JAY HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>237 7TH AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11215.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.978856,40.669393</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>BROOKLYN TECH HS</b><br>
+29 FT GREENE PLACE<br>
+BROOKLYN, NY 11217<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>BROOKLYN TECH HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>29 FT GREENE PLACE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11217.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.976453,40.689009</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>NYC TECHNICAL COLLEGE</b><br>
+300 JAY ST<br>
+BROOKLYN, NY 11201<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>NYC TECHNICAL COLLEGE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>300 JAY ST</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11201.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.987461,40.695555</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>HS OF LAW, GOV&#39;T &amp; JUSTICE</b><br>
+244 EAST 163RD STREET<br>
+BRONX, NY 10451<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>HS OF LAW, GOV'T &amp; JUSTICE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>244 EAST 163RD STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10451.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.918995,40.827552</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>WILLIAM H. TAFT HS</b><br>
+240 EAST 172 STREET<br>
+BRONX, NY 10457<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>WILLIAM H. TAFT HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>240 EAST 172 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10457.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.911205,40.839935</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 201</b><br>
+730 BRYANT AVENUE<br>
+BRONX, NY 10474<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 201</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>730 BRYANT AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10474.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.885512,40.815595</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>LEHMAN COLLEGE</b><br>
+250 BEDFORD PARK BLVD W<br>
+BRONX, NY 10468<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>LEHMAN COLLEGE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>250 BEDFORD PARK BLVD W</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10468.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.893007,40.874668</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>BX COMMUNITY COLLEGE</b><br>
+80 W 181ST STREET<br>
+BRONX, NY 10453<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>BX COMMUNITY COLLEGE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>80 W 181ST STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10453.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.91023,40.857219</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>FRANKLIN D. ROOSEVELT HS</b><br>
+5800 20 AVENUE<br>
+BROOKLYN, NY 11204<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>FRANKLIN D. ROOSEVELT HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>5800 20 AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11204.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.981855,40.620905</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>CLARA BARTON HS</b><br>
+901 CLASSON AVENUE<br>
+BROOKLYN, NY 11225<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>CLARA BARTON HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>901 CLASSON AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11225.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.961358,40.669252</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>PS 327</b><br>
+111 BRISTOL STREET<br>
+BROOKLYN, NY 11212<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>PS 327</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>111 BRISTOL STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11212.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.912073,40.668363</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>FRANKLIN K. LANE HS</b><br>
+999 JAMAICA AVENUE<br>
+BROOKLYN, NY 11208<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>FRANKLIN K. LANE HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>999 JAMAICA AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11208.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.868932,40.692737</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>PS 80 PETRIDES COMPLEX</b><br>
+715 OCEAN TERRACE<br>
+STATEN ISLAND, NY 10301<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>PS 80 PETRIDES COMPLEX</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>715 OCEAN TERRACE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>STATEN ISLAND</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10301.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>SI</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-74.105012,40.608351</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>LOUIS D. BRANDEIS HS</b><br>
+145 WEST 84 STREET<br>
+NEW YORK, NY 10024<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>LOUIS D. BRANDEIS HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>145 WEST 84 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10024.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.974357,40.785936</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 90</b><br>
+21 JUMEL PLACE<br>
+NEW YORK, NY 10032<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 90</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>21 JUMEL PLACE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10032.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.935822,40.839397</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>G. WASHINGTON HS</b><br>
+549 AUDOBON AVENUE<br>
+NEW YORK, NY 10040<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>G. WASHINGTON HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>549 AUDOBON AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10040.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.926227,40.855601</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>CITY COLLEGE</b><br>
+181 CONVENT AVE<br>
+NEW YORK, NY 10031<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>CITY COLLEGE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>181 CONVENT AVE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10031.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.950464,40.819543</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>HUNTER COLLEGE</b><br>
+695 PARK AVE<br>
+NEW YORK, NY 10065<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>HUNTER COLLEGE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>695 PARK AVE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10065.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.965036,40.768698</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>JOHN JAY COLLEGE</b><br>
+445 W 59TH ST<br>
+NEW YORK, NY 10019<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>JOHN JAY COLLEGE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>445 W 59TH ST</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10019.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.986647,40.770357</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>BAYSIDE HS</b><br>
+32-24 CORPORAL KENNEDY STREET<br>
+BAYSIDE, NY 11361<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>BAYSIDE HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>32-24 CORPORAL KENNEDY STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BAYSIDE</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11361.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.780787,40.771458</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>WILLIAM C. BRYANT HS</b><br>
+48-10 31 AVENUE<br>
+LONG ISLAND CITY, NY 11103<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>WILLIAM C. BRYANT HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>48-10 31 AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>LONG ISLAND CITY</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11103.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.910511,40.757905</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>JHS 185</b><br>
+147-26 25 DRIVE<br>
+FLUSHING, NY 11354<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>JHS 185</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>147-26 25 DRIVE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>FLUSHING</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11354.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.818638,40.774929</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>FLUSHING HS</b><br>
+35-01 UNION STREET<br>
+FLUSHING, NY 11354<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>FLUSHING HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>35-01 UNION STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>FLUSHING</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11354.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.826638,40.765081</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 117</b><br>
+300 WILLOUGHBY AVENUE<br>
+BROOKLYN, NY 11205<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 117</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>300 WILLOUGHBY AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11205.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.958292,40.692476</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>AVIATION HS</b><br>
+45-30 36 STREET<br>
+LONG ISLAND CITY, NY 11101<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>AVIATION HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>45-30 36 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>LONG ISLAND CITY</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11101.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.929305,40.743492</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>PS 211</b><br>
+1919 PROSPECT AVENUE<br>
+BRONX, NY 10457<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>PS 211</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>1919 PROSPECT AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10457.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.889709,40.843873</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>BARUCH COLLEGE</b><br>
+155 E 24TH ST<br>
+NEW YORK, NY 10010<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>BARUCH COLLEGE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>155 E 24TH ST</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10010.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.98359,40.740106</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>NEWTOWN HS</b><br>
+48-01 90 STREET<br>
+ELMHURST, NY 11373<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>NEWTOWN HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>48-01 90 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>ELMHURST</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11373.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.874264,40.740902</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>EVANDER CHILDS HS</b><br>
+800 EAST GUN HILL ROAD<br>
+BRONX, NY 10467<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>EVANDER CHILDS HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>800 EAST GUN HILL ROAD</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10467.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.861474,40.87545</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>CURTIS HS</b><br>
+105 HAMILTON AVENUE<br>
+STATEN ISLAND, NY 10301<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>CURTIS HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>105 HAMILTON AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>STATEN ISLAND</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10301.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>SI</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-74.081855,40.64536</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 51</b><br>
+20 HOUSTON STREET<br>
+STATEN ISLAND, NY 10302<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 51</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>20 HOUSTON STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>STATEN ISLAND</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10302.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>SI</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-74.145033,40.622887</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 75</b><br>
+455 HUGUENOT AVENUE<br>
+STATEN ISLAND, NY 10312<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 75</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>455 HUGUENOT AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>STATEN ISLAND</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10312.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>SI</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-74.1972,40.544286</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>SUSAN E. WAGNER HS</b><br>
+1200 MANOR ROAD<br>
+STATEN ISLAND, NY 10314<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>SUSAN E. WAGNER HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>1200 MANOR ROAD</value>
+				</Data>
+				<Data name='CITY'>
+					<value>STATEN ISLAND</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10314.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>SI</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-74.12525,40.59767</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>BREAD AND ROSES</b><br>
+6 EDGECOMBE AVENUE<br>
+NEW YORK, NY 10030<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>BREAD AND ROSES</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>6 EDGECOMBE AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10030.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.947398,40.817307</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 118</b><br>
+154 WEST 93 STREET<br>
+NEW YORK, NY 10025<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 118</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>154 WEST 93 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10025.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.970919,40.791512</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 88</b><br>
+215 WEST 114 STREET<br>
+NEW YORK, NY 10026<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 88</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>215 WEST 114 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10026.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.954111,40.802546</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>SEWARD PARK HS</b><br>
+350 GRAND STREET<br>
+NEW YORK, NY 10002<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>SEWARD PARK HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>350 GRAND STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10002.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.989354,40.717311</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>JULIA RICHMAN ED. COMPLEX</b><br>
+317 EAST 67 STREET<br>
+NEW YORK, NY 10065<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>JULIA RICHMAN ED. COMPLEX</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>317 EAST 67 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>NEW YORK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10065.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>MN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.959888,40.765586</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>FOREST HILLS HS</b><br>
+67-01 110 STREET<br>
+FOREST HILLS, NY 11375<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>FOREST HILLS HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>67-01 110 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>FOREST HILLS</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11375.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.844807,40.729759</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 187</b><br>
+1171 65 STREET<br>
+BROOKLYN, NY 11219<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 187</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>1171 65 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11219.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-74.003961,40.627845</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>PS 189</b><br>
+1100 EAST NEW YORK AVE<br>
+BROOKLYN, NY 11212<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>PS 189</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>1100 EAST NEW YORK AVE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11212.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.925721,40.665447</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 246</b><br>
+72 VERONICA PLACE<br>
+BROOKLYN, NY 11226<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 246</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>72 VERONICA PLACE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11226.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.953374,40.648518</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>PS 249</b><br>
+18 MARLBOROUGH ROAD<br>
+BROOKLYN, NY 11226<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>PS 249</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>18 MARLBOROUGH ROAD</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11226.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.966493,40.649702</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 271</b><br>
+1137 HERKIMER STREET<br>
+BROOKLYN, NY 11233<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 271</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>1137 HERKIMER STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11233.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.915848,40.678143</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 136</b><br>
+4004 4TH AVENUE<br>
+BROOKLYN, NY 11232<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 136</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>4004 4TH AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11232.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-74.007313,40.651956</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>BOYS &amp; GIRLS HS</b><br>
+1700 FULTON STREET<br>
+BROOKLYN, NY 11213<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>BOYS &amp; GIRLS HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>1700 FULTON STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11213.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.931622,40.678908</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>JHS 57</b><br>
+125 STUYVESANT AVENUE<br>
+BROOKLYN, NY 11221<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>JHS 57</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>125 STUYVESANT AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11221.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.933458,40.691455</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 383</b><br>
+1300 GREENE AVENUE<br>
+BROOKLYN, NY 11237<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 383</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>1300 GREENE AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11237.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.919415,40.697523</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>BUSHWICK HS</b><br>
+400 IRVING AVENUE<br>
+BROOKLYN, NY 11237<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>BUSHWICK HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>400 IRVING AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BROOKLYN</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11237.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BK</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.911825,40.696881</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>PS 19</b><br>
+98-02 ROOSEVELT AVE.<br>
+CORONA, NY 11368<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>PS 19</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>98-02 ROOSEVELT AVE.</value>
+				</Data>
+				<Data name='CITY'>
+					<value>CORONA</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11368.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.866978,40.749005</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>JOHN ADAMS HS</b><br>
+101-01 ROCKAWAY BLVD<br>
+OZONE PARK, NY 11417<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>JOHN ADAMS HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>101-01 ROCKAWAY BLVD</value>
+				</Data>
+				<Data name='CITY'>
+					<value>OZONE PARK</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11417.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.836987,40.678813</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>QUEENSBOROUGH COMM COLLEGE</b><br>
+222-05 56TH AVE<br>
+OAKLAND GARDENS, NY 11364<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>QUEENSBOROUGH COMM COLLEGE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>222-05 56TH AVE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>OAKLAND GARDENS</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11364.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.756582,40.755909</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>YORK COLLEGE</b><br>
+94-20 GUY R BREWER BLVD<br>
+JAMAICA, NY 11451<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>YORK COLLEGE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>94-20 GUY R BREWER BLVD</value>
+				</Data>
+				<Data name='CITY'>
+					<value>JAMAICA</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11451.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.796144,40.701789</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>BELMONT RACETRACK</b><br>
+2150 HEMPSTEAD TPKE<br>
+ELMONT, NY 11003<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>BELMONT RACETRACK</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>2150 HEMPSTEAD TPKE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>ELMONT</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11003.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.726359,40.710732</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>QUEENS COLLEGE</b><br>
+65-30 KISSENA BLVD<br>
+FLUSHING, NY 11367<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>QUEENS COLLEGE</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>65-30 KISSENA BLVD</value>
+				</Data>
+				<Data name='CITY'>
+					<value>FLUSHING</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11367.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.815595,40.737766</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>IS 98</b><br>
+1619 BOSTON ROAD<br>
+BRONX, NY 10460<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>IS 98</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>1619 BOSTON ROAD</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10460.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.890598,40.836137</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>PS 102</b><br>
+1827 ARCHER STREET<br>
+BRONX, NY 10460<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>PS 102</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>1827 ARCHER STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10460.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.865955,40.837859</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>PS 306</b><br>
+40 WEST TREMONT AVENUE<br>
+BRONX, NY 10453<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>PS 306</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>40 WEST TREMONT AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10453.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.910736,40.851559</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>MS - HS 141</b><br>
+660 WEST 237 STREET<br>
+BRONX, NY 10463<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>MS - HS 141</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>660 WEST 237 STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10463.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.91429,40.888126</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>PS 5</b><br>
+564 JACKSON AVENUE<br>
+BRONX, NY 10455<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>PS 5</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>564 JACKSON AVENUE</value>
+				</Data>
+				<Data name='CITY'>
+					<value>BRONX</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>10455.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>BX</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.90844,40.813662</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+
+<b>GROVER CLEVELAND HS</b><br>
+21-27 HIMROD STREET<br>
+RIDGEWOOD, NY 11385<br>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='EC_NAME'>
+					<value>GROVER CLEVELAND HS</value>
+				</Data>
+				<Data name='ADDRESS'>
+					<value>21-27 HIMROD STREET</value>
+				</Data>
+				<Data name='CITY'>
+					<value>RIDGEWOOD</value>
+				</Data>
+				<Data name='ZIP_CODE'>
+					<value>11385.00000000000</value>
+				</Data>
+				<Data name='BOROUGH'>
+					<value>QN</value>
+				</Data>
+			</ExtendedData><Point><coordinates>-73.908951,40.711446</coordinates></Point></Placemark>
+	</Document>
+</kml>

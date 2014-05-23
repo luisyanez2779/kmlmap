@@ -5,7 +5,7 @@
 		<Style id='Style2-point-1'>
 			<IconStyle>
 				<Icon>
-					<href>http://project.wnyc.org/news-maps/hurricane-zones/images/new-dot.png</href>
+					<href>https://raw.githubusercontent.com/luisyanez2779/kmlmap/master/blue-pin.png</href>
 				</Icon>
 			</IconStyle>
 			<LabelStyle>
@@ -18,7 +18,7 @@
 		<Style id='Style2-point-1-hover'>
 			<IconStyle>
 				<Icon>
-					<href>http://project.wnyc.org/news-maps/hurricane-zones/images/new-dot.png</href>
+					<href>https://raw.githubusercontent.com/luisyanez2779/kmlmap/master/blue-pin.png</href>
 				</Icon>
 			</IconStyle>
 			<BalloonStyle>

@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OEM_HurricaneEvacCenters_001" id="OEM_HurricaneEvacCenters_001">
+	<SimpleField name="BLDG_NAME" type="string"></SimpleField>
+	<SimpleField name="BLDG_ADD" type="string"></SimpleField>
+	<SimpleField name="CITY" type="string"></SimpleField>
+	<SimpleField name="STATE" type="string"></SimpleField>
+	<SimpleField name="ZIP_CODE" type="float"></SimpleField>
+	<SimpleField name="BORO" type="string"></SimpleField>
+</Schema>
+<Folder><name>OEM_HurricaneEvacCenters_001</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">HS OF GRAPHIC COMMUNICATION ARTS-M</SimpleData>
+		<SimpleData name="BLDG_ADD">439 WEST 49 STREET</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10019.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.990721228991674,40.763694116841478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">NEWCOMERS HIGH SCHOOL (OLD LIC)-Q</SimpleData>
+		<SimpleData name="BLDG_ADD">28-01 41ST AVENUE</SimpleData>
+		<SimpleData name="CITY">LONG ISLAND CITY</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11101.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.936812440765593,40.751584266345198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">JOHN JAY HS - K</SimpleData>
+		<SimpleData name="BLDG_ADD">237 7TH AVENUE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11215.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.978856011518957,40.669393015907339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">BROOKLYN TECH HS - K</SimpleData>
+		<SimpleData name="BLDG_ADD">29 FT GREENE PLACE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11217.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.97645303866004,40.689009324593897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">NYC TECHNICAL COLLEGE</SimpleData>
+		<SimpleData name="BLDG_ADD">300 JAY ST</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11201.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.987460753085585,40.695554539796383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">WILLIAM H. TAFT HS - X</SimpleData>
+		<SimpleData name="BLDG_ADD">240 EAST 172 STREET</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10457.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91120515578919,40.839935180730535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 201 - BRONX</SimpleData>
+		<SimpleData name="BLDG_ADD">730 BRYANT AVENUE</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10474.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.885511605029677,40.815595040148118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">LEHMAN COLLEGE</SimpleData>
+		<SimpleData name="BLDG_ADD">250 BEDFORD PARK BLVD W</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10468.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.893007383339196,40.874668279588242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">BX COMMUNITY COLLEGE</SimpleData>
+		<SimpleData name="BLDG_ADD">80 W 181ST STREET</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10453.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.910229693219364,40.85721896967204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">FRANKLIN D. ROOSEVELT HS - K</SimpleData>
+		<SimpleData name="BLDG_ADD">5800 20 AVENUE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11204.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.981854808431635,40.620904539015221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">CLARA BARTON HS - K</SimpleData>
+		<SimpleData name="BLDG_ADD">901 CLASSON AVENUE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11225.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.961357546877366,40.669252100401778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 292 - BROOKLYN</SimpleData>
+		<SimpleData name="BLDG_ADD">301 Vermont Street</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11207.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.893292399062616,40.671553703237571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">FRANKLIN K. LANE HS - K</SimpleData>
+		<SimpleData name="BLDG_ADD">999 JAMAICA AVENUE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11208.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8689320750549,40.692737157293664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">P.S. 80 (PETRIDES COMPLEX) AF-S.I.</SimpleData>
+		<SimpleData name="BLDG_ADD">715 OCEAN TERRACE</SimpleData>
+		<SimpleData name="CITY">STATEN ISLAND</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10301.00000000000</SimpleData>
+		<SimpleData name="BORO">SI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.105011657765701,40.608350557167931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">LOUIS D. BRANDEIS HS - MANHATTAN</SimpleData>
+		<SimpleData name="BLDG_ADD">145 WEST 84 STREET</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10024.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.974357073009315,40.785936276985623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 90 - MANHATTAN</SimpleData>
+		<SimpleData name="BLDG_ADD">21 JUMEL PLACE</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10032.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.935822085166322,40.839397304272318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">CITY COLLEGE</SimpleData>
+		<SimpleData name="BLDG_ADD">181 CONVENT AVE</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10031.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.950464071038098,40.819542764508867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">HUNTER COLLEGE</SimpleData>
+		<SimpleData name="BLDG_ADD">695 PARK AVE</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10065.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.965036379784323,40.768697894096263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">JOHN JAY COLLEGE</SimpleData>
+		<SimpleData name="BLDG_ADD">445 W 59TH ST</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10019.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.986646586429714,40.7703569174843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">BAYSIDE HS - Q</SimpleData>
+		<SimpleData name="BLDG_ADD">32-24 Corporal Kennedy Street</SimpleData>
+		<SimpleData name="CITY">BAYSIDE</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11361.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.780786900913114,40.771457872051336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">WILLIAM C. BRYANT HS - Q</SimpleData>
+		<SimpleData name="BLDG_ADD">48-10 31 AVENUE</SimpleData>
+		<SimpleData name="CITY">LONG ISLAND CITY</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11103.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.910510585259942,40.757905153495201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">J.H.S. 185 - QUEENS</SimpleData>
+		<SimpleData name="BLDG_ADD">147-26 25 DRIVE</SimpleData>
+		<SimpleData name="CITY">FLUSHING</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11354.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.818637581330762,40.774929221483305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">FLUSHING HS - Q</SimpleData>
+		<SimpleData name="BLDG_ADD">35-01 UNION STREET</SimpleData>
+		<SimpleData name="CITY">FLUSHING</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11354.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.826637968707217,40.765081287050805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 117 - BROOKLYN</SimpleData>
+		<SimpleData name="BLDG_ADD">300 WILLOUGHBY AVENUE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11205.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.958291918023065,40.692475611702548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">AVIATION HS - Q</SimpleData>
+		<SimpleData name="BLDG_ADD">45-30 36 STREET</SimpleData>
+		<SimpleData name="CITY">LONG ISLAND CITY</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11101.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.92930547767223,40.743491631039085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">BARUCH COLLEGE</SimpleData>
+		<SimpleData name="BLDG_ADD">155 E 24TH ST</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10010.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.98358956669388,40.740106367918749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">NEWTOWN HS - Q</SimpleData>
+		<SimpleData name="BLDG_ADD">48-01 90 STREET</SimpleData>
+		<SimpleData name="CITY">ELMHURST</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11373.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.874263573928971,40.740901726487614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">EVANDER CHILDS HS - X</SimpleData>
+		<SimpleData name="BLDG_ADD">800 EAST GUN HILL ROAD</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10467.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.861473875341417,40.875450151896693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">HARRY S. TRUMAN HS - X</SimpleData>
+		<SimpleData name="BLDG_ADD">750 BAYCHESTER AVENUE</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10475.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.833094434337752,40.874100599278478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">CURTIS HS - S. I.</SimpleData>
+		<SimpleData name="BLDG_ADD">105 HAMILTON AVENUE</SimpleData>
+		<SimpleData name="CITY">STATEN ISLAND</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10301.00000000000</SimpleData>
+		<SimpleData name="BORO">SI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.081854509792592,40.645360437213007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 51 - STATEN ISLAND</SimpleData>
+		<SimpleData name="BLDG_ADD">20 HOUSTON STREET</SimpleData>
+		<SimpleData name="CITY">STATEN ISLAND</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10302.00000000000</SimpleData>
+		<SimpleData name="BORO">SI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.145033005646994,40.622887389395039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">TOTTENVILLE HS - S. I.</SimpleData>
+		<SimpleData name="BLDG_ADD">100 LUTEN AVENUE</SimpleData>
+		<SimpleData name="CITY">STATEN ISLAND</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10312.00000000000</SimpleData>
+		<SimpleData name="BORO">SI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.192576569628216,40.527139317850398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">SUSAN E. WAGNER HS - S. I.</SimpleData>
+		<SimpleData name="BLDG_ADD">1200 MANOR ROAD</SimpleData>
+		<SimpleData name="CITY">STATEN ISLAND</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10314.00000000000</SimpleData>
+		<SimpleData name="BORO">SI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.125250242743334,40.597669860000273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 118 - MANHATTAN</SimpleData>
+		<SimpleData name="BLDG_ADD">154 WEST 93 STREET</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10025.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.970919163010578,40.791512318096018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 88 - MANHATTAN</SimpleData>
+		<SimpleData name="BLDG_ADD">215 WEST 114 STREET</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10026.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.954111015351117,40.802545697544062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">SEWARD PARK HS - MANHATTAN</SimpleData>
+		<SimpleData name="BLDG_ADD">350 GRAND STREET</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10002.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.989354098807198,40.717311164580529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">P.S. 171 - MANHATTAN</SimpleData>
+		<SimpleData name="BLDG_ADD">19 EAST 103 STREET</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10029.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.951414609503146,40.792316652557595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">FOREST HILLS HS - Q</SimpleData>
+		<SimpleData name="BLDG_ADD">67-01 110 STREET</SimpleData>
+		<SimpleData name="CITY">FOREST HILLS</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11375.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.844807020318527,40.729758669434716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">P.S. 189 - BROOKLYN</SimpleData>
+		<SimpleData name="BLDG_ADD">1100 EAST NEW YORK AVE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11212.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.925721257886067,40.665447203549434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 246 - BROOKLYN</SimpleData>
+		<SimpleData name="BLDG_ADD">72 VERONICA PLACE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11226.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.953373801601785,40.64851843706078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">P.S. 249 - BROOKLYN</SimpleData>
+		<SimpleData name="BLDG_ADD">18 MARLBOROUGH ROAD</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11226.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.966493362984167,40.649701794298238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 271 - BROOKLYN</SimpleData>
+		<SimpleData name="BLDG_ADD">1137 HERKIMER STREET</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11233.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.915848181481493,40.678143021007614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 136 - BROOKLYN</SimpleData>
+		<SimpleData name="BLDG_ADD">4004 4TH AVENUE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11232.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.007312885740106,40.651956247708995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">BOYS &amp; GIRLS HS - K</SimpleData>
+		<SimpleData name="BLDG_ADD">1700 FULTON STREET</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11213.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.931621773005219,40.678907841089604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">J.H.S. 57 - BROOKLYN</SimpleData>
+		<SimpleData name="BLDG_ADD">125 STUYVESANT AVENUE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11221.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.933458075997095,40.691455031306411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 383 - BROOKLYN</SimpleData>
+		<SimpleData name="BLDG_ADD">1300 GREENE AVENUE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11237.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.91941537995848,40.69752293971839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">BUSHWICK HS - K</SimpleData>
+		<SimpleData name="BLDG_ADD">400 IRVING AVENUE</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11237.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.911825451699855,40.696880568538916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">P.S. 19 - QUEENS</SimpleData>
+		<SimpleData name="BLDG_ADD">98-02 ROOSEVELT AVE.</SimpleData>
+		<SimpleData name="CITY">CORONA</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11368.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.86697826871351,40.749005106282446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">CHRIST THE KING HS</SimpleData>
+		<SimpleData name="BLDG_ADD">68-02 METROPOLITAN AVE</SimpleData>
+		<SimpleData name="CITY">MIDDLE VILLAGE</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11379.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.888254359344913,40.711504139726323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">AQUEDUCT RACETRACK</SimpleData>
+		<SimpleData name="BLDG_ADD">ROCKAWAY BLVD &amp; 108TH ST</SimpleData>
+		<SimpleData name="CITY">S. OZONE PARK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11420.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.829700002230865,40.677152183496304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">QUEENSBOROUGH COMM. COLLEGE</SimpleData>
+		<SimpleData name="BLDG_ADD">222-05 56TH AVE</SimpleData>
+		<SimpleData name="CITY">OAKLAND GARDENS</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11364.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.756582189510439,40.75590929326728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">YORK COLLEGE</SimpleData>
+		<SimpleData name="BLDG_ADD">94-20 GUY R BREWER BLVD</SimpleData>
+		<SimpleData name="CITY">JAMAICA</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11451.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.796143824376031,40.70178894156011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">BELMONT RACETRACK</SimpleData>
+		<SimpleData name="BLDG_ADD">HEMPSTEAD TPKE &amp; CROSS ISLD. PKWY.</SimpleData>
+		<SimpleData name="CITY">ELMONT</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11003.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.726358773367977,40.710732096168627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">QUEENS COLLEGE</SimpleData>
+		<SimpleData name="BLDG_ADD">65-30 KISSENA BLVD</SimpleData>
+		<SimpleData name="CITY">FLUSHING</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11367.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.815595100225181,40.737766095476978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 98 - BRONX</SimpleData>
+		<SimpleData name="BLDG_ADD">1619 BOSTON ROAD</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10460.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.89059792826491,40.836137182759046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">P.S. 102 - BRONX</SimpleData>
+		<SimpleData name="BLDG_ADD">1827 ARCHER STREET</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10460.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.865954512912126,40.837859464118637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">P.S. 306 - BRONX</SimpleData>
+		<SimpleData name="BLDG_ADD">40 WEST TREMONT AVENUE</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10453.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.910736423339046,40.851559325603091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">M.S./H.S. 141 - BRONX</SimpleData>
+		<SimpleData name="BLDG_ADD">660 WEST 237 STREET</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10463.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.914290377116487,40.888126303651852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">HILLCREST HS - Q</SimpleData>
+		<SimpleData name="BLDG_ADD">160-05 HIGHLAND AVENUE</SimpleData>
+		<SimpleData name="CITY">JAMAICA</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11432.00000000000</SimpleData>
+		<SimpleData name="BORO">QN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.802579079762552,40.709673389306602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 145 - BRONX</SimpleData>
+		<SimpleData name="BLDG_ADD">1000 TELLER AVENUE</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10456.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.914057820778723,40.827860646445913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">G. WASHINGTON HS EDUC. CAMPUS - M</SimpleData>
+		<SimpleData name="BLDG_ADD">549 AUDOBON AVENUE</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10040.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.926227300598484,40.855600641021148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">P.S. 211 - BRONX</SimpleData>
+		<SimpleData name="BLDG_ADD">1919 PROSPECT AVENUE</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10457.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.889708786515286,40.843873038594886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">BREAD AND ROSES - MANHATTAN</SimpleData>
+		<SimpleData name="BLDG_ADD">6 EDGECOMBE AVENUE</SimpleData>
+		<SimpleData name="CITY">NEW YORK</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10030.00000000000</SimpleData>
+		<SimpleData name="BORO">MN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.947397701190795,40.817307278730858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">I.S. 187 - BROOKLYN</SimpleData>
+		<SimpleData name="BLDG_ADD">1171 65 STREET</SimpleData>
+		<SimpleData name="CITY">BROOKLYN</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">11219.00000000000</SimpleData>
+		<SimpleData name="BORO">BK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.003960755592189,40.627844506970547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OEM_HurricaneEvacCenters_001">
+		<SimpleData name="BLDG_NAME">P.S. 5 - BRONX</SimpleData>
+		<SimpleData name="BLDG_ADD">564 JACKSON AVENUE</SimpleData>
+		<SimpleData name="CITY">BRONX</SimpleData>
+		<SimpleData name="STATE">NY</SimpleData>
+		<SimpleData name="ZIP_CODE">10455.00000000000</SimpleData>
+		<SimpleData name="BORO">BX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.908440429736089,40.813661661655956</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

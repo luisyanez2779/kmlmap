@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+   <Folder>
+      <name>layer_0</name>
+      <description>geo_ezfn-5dsb:geo_ezfn-5dsb-1</description>
+      <LookAt>
+         <longitude>-73.99175439699758</longitude>
+         <latitude>40.70784095036867</latitude>
+         <altitude>82333.24320698164</altitude>
+         <range>66529.5790273697</range>
+         <tilt>0.0</tilt>
+         <heading>0.0</heading>
+         <altitudeMode>clampToGround</altitudeMode>
+      </LookAt>
+      <GroundOverlay>
+         <name>geo_ezfn-5dsb:geo_ezfn-5dsb-1</name>
+         <drawOrder>0</drawOrder>
+         <Icon>
+            <href>images/layer_0.png</href>
+            <viewRefreshMode>never</viewRefreshMode>
+            <viewBoundScale>0.75</viewBoundScale>
+         </Icon>
+         <LatLonBox>
+            <north>40.92192492882973</north>
+            <south>40.493103399146044</south>
+            <east>-73.71565383003319</east>
+            <west>-74.26608276387927</west>
+         </LatLonBox>
+      </GroundOverlay>
+   </Folder>
+</kml>

@@ -26,7 +26,7 @@
       <href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer</href>
       <viewFormat>
         <![CDATA[
-        Composite=false&LayerIDs=2,7&f=kmz&bboxSR=4326&imageSR=4326&bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&size=[horizPixels],[vertPixels]
+        Composite=false&LayerIDs=1,2,6,7&f=kmz&bboxSR=102100&imageSR=102100&bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&size=[horizPixels],[vertPixels]
         ]]>
       </viewFormat>
     </Link>

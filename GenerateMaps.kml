@@ -22,7 +22,7 @@
     </Region>  
     <Link>
       <viewRefreshMode>onStop</viewRefreshMode>
-      <viewRefreshTime>2</viewRefreshTime>
+      <viewRefreshTime>1</viewRefreshTime>
       <href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer</href>
       <viewFormat>
         <![CDATA[

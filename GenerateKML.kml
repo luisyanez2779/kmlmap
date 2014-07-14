@@ -8,11 +8,6 @@
     <viewRefreshMode>onStop</viewRefreshMode>
     <viewRefreshTime>2</viewRefreshTime>
     <href>https://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer</href>
-    <viewFormat>
-    <![CDATA[
-    BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth];CAMERA=[lookatLon],[lookatLat],[lookatRange],[lookatTilt],[lookatHeading];VIEW=[horizFov],[vertFov],[horizPixels],[vertPixels],[terrainEnabled]
-    ]]>
-    </viewFormat>
   </Url>
 </NetworkLink>
 </kml>

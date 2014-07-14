@@ -7,12 +7,10 @@
   <Url>
     <viewRefreshMode>onStop</viewRefreshMode>
     <viewRefreshTime>2</viewRefreshTime>
-    <href>http://services.femadata.com/arcgis/rest/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/export?dpi=96&transparent=true&format=png32&layers=show:1,2,6,7</href>
-    <viewFormat>
-    <![CDATA[
-    BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth];CAMERA=[lookatLon],[lookatLat],[lookatRange],[lookatTilt],[lookatHeading];VIEW=[horizFov],[vertFov],[horizPixels],[vertPixels],[terrainEnabled]
-    ]]>
-    </viewFormat>
+    <href>http://services.femadata.com/arcgis/rest/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/export</href>
+	<viewFormat>
+	f=image&amp;bboxSR=4326&amp;imageSR=4326&amp;format=png24&amp;transparent=true&amp;bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;size=[horizPixels],[vertPixels]&amp;
+	</viewFormat>
   </Url>
 </NetworkLink>
 </kml>

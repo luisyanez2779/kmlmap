@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">  
   <NetworkLink>
     <open>1</open>
-    <name>Images/World</name>
+    <name>Generate KML</name>
     <LookAt>
 		<longitude>-73.9843750937967</longitude>
 		<latitude>40.813981923442604</latitude>
@@ -23,10 +23,10 @@
     <Link>
       <viewRefreshMode>onStop</viewRefreshMode>
       <viewRefreshTime>2</viewRefreshTime>
-      <href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer?Composite=false&amp;LayerIDs=0%2C2%2C3%2C7</href>
+      <href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer</href>
       <viewFormat>
         <![CDATA[
-        f=kmz&bboxSR=4326&imageSR=4326&bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&size=[horizPixels],[vertPixels]
+        Composite=false&LayerIDs=2,7&f=kmz&bboxSR=4326&imageSR=4326&bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&size=[horizPixels],[vertPixels]
         ]]>
       </viewFormat>
     </Link>

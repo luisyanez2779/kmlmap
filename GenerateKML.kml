@@ -10,7 +10,7 @@
     <href>https://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer</href>
     <viewFormat>
     <![CDATA[
-    Composite=true&LayerIDs=2,7&BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&ImageSize=[horizPixels],[vertPixels]
+    Composite=false&LayerIDs=2,7&BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&ImageSize=[horizPixels],[vertPixels]
     ]]>
     </viewFormat>
   </Url>

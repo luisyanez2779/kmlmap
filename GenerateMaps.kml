@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">  
   <NetworkLink>
     <open>1</open>
-    <name>Generate KML</name>
+    <name>Generate KML Image</name>
     <LookAt>
 		<longitude>-73.9843750937967</longitude>
 		<latitude>40.813981923442604</latitude>

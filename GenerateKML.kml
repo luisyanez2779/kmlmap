@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://earth.google.com/kml/2.2"> <NetworkLink>
+<kml xmlns="http://earth.google.com/kml/2.2"> <NetworkLink>
 <open>1</open>
 <name>Generate KML</name>
 <LookAt>
@@ -9,7 +9,7 @@
 </LookAt>
 <Link>
 <viewRefreshMode>onStop</viewRefreshMode>
-<href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer?Composite=false&LayerIDs=0%2C2%2C3%2C7</href>
+<href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer?Composite=false&amp;LayerIDs=0%2C2%2C3%2C7</href>
 <viewFormat>BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth];CAMERA=[lookatLon],[lookatLat],[lookatRange],[lookatTilt],[lookatHeading];VIEW=[horizFov],[vertFov],[horizPixels],[vertPixels],[terrainEnabled]</viewFormat>
 </Link>
 </NetworkLink>

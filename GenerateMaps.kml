@@ -23,12 +23,7 @@
     <Link>
       <viewRefreshMode>onStop</viewRefreshMode>
       <viewRefreshTime>1</viewRefreshTime>
-      <href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer</href>
-      <viewFormat>
-        <![CDATA[
-        Composite=false&LayerIDs=1,2,6,7&f=kmz&bboxSR=102100&imageSR=102100&bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&size=[horizPixels],[vertPixels]
-        ]]>
-      </viewFormat>
+      <href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer?Composite=true&amp;LayerIDs=1,2,6,7&amp;f=kmz&amp;bboxSR=102100&amp;imageSR=102100&amp;bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;size=[horizPixels],[vertPixels]</href>
     </Link>
   </NetworkLink>
 </kml>

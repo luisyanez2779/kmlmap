@@ -1,18 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-<NetworkLink>
-<open>1</open>
-<name>Generate KML</name>
-<LookAt>
-<longitude>-73.9843750937967</longitude>
-<latitude>40.813981923442604</latitude>
-<range>56449.45144021939</range>
-</LookAt>
-<Link>
-<viewRefreshMode>onStop</viewRefreshMode>
-<href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer?Composite=false&amp;LayerIDs=0%2C2%2C3%2C7</href>
-<viewFormat>BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth];CAMERA=[lookatLon],[lookatLat],[lookatRange],[lookatTilt],[lookatHeading];VIEW=[horizFov],[vertFov],[horizPixels],[vertPixels],[terrainEnabled]</viewFormat>
-</Link>
-</NetworkLink>
+<kml xmlns="http://earth.google.com/kml/2.2">  
+  <NetworkLink>
+    <open>1</open>
+    <name>Images/World</name>
+    <LookAt>
+		<longitude>-73.9843750937967</longitude>
+		<latitude>40.813981923442604</latitude>
+		<range>56449.45144021939</range>
+    </LookAt>
+    <Region>
+      <LatLonAltBox>
+		<north>41.24820847298275</north>
+		<south>40.379755373902455</south>
+		<east>-73.55014854425656</east>
+		<west>-74.41860164333686</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>128</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>  
+    <Link>
+      <viewRefreshMode>onStop</viewRefreshMode>
+      <viewRefreshTime>2</viewRefreshTime>
+      <href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer?Composite=false&amp;LayerIDs=0%2C2%2C3%2C7</href>
+      <viewFormat>
+        <![CDATA[
+        f=kmz&bboxSR=4326&imageSR=4326&bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&size=[horizPixels],[vertPixels]
+        ]]>
+      </viewFormat>
+    </Link>
+  </NetworkLink>
 </kml>
-

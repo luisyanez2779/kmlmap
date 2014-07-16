@@ -12,8 +12,6 @@
   <name>NE US Radar</name>
   <Link>
     <href>http://services.femadata.com/arcgis/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/KmlServer?Composite=false&amp;LayerIDs=0%2C2%2C3%2C7</href>
-    <refreshMode>onInterval</refreshMode>
-    <refreshInterval>30</refreshInterval>
     <viewRefreshMode>onStop</viewRefreshMode>
     <viewRefreshTime>1</viewRefreshTime>
     <viewFormat>BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth];CAMERA=\

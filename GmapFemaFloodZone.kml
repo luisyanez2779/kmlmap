@@ -23,8 +23,8 @@
 	</Lod>
 	</Region>
 	<Link>
-	<viewRefreshMode>onStop</viewRefreshMode>
-	<viewRefreshTime>2</viewRefreshTime>
+    <refreshMode>onInterval</refreshMode>
+    <refreshInterval>1</refreshInterval>
 	<href>http://regions.services.femadata.com/arcgis/rest/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/export</href>
 	<viewFormat>
 	f=image&amp;bboxSR=4326&amp;imageSR=4326&amp;format=png24&amp;transparent=true&amp;bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;size=[horizPixels],[vertPixels]&amp;

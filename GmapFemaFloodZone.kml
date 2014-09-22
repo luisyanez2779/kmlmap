@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"> <NetworkLink>
-<open>1</open>
-<name>FEMA_R2/Preliminary_FIRM_NYC</name>
-<LookAt>
-<longitude>-73.9843750937967</longitude>
-<latitude>40.81398192344261</latitude>
-<range>56449.45144021939</range>
-</LookAt>
-<Region>
-<LatLonBox>
-<north>40.93749989863604</north>
-<south>40.46874987835384</south>
-<east>-73.68750019017921</east>
-<west>-74.28124999741419</west>
-</LatLonBox>
-<Lod>
-<minLodPixels>128</minLodPixels>
-<maxLodPixels>-1</maxLodPixels>
-</Lod>
-</Region>
-<Link>
-<viewRefreshMode>onStop</viewRefreshMode>
-<viewRefreshTime>2</viewRefreshTime>
-<href>http://regions.services.femadata.com/arcgis/rest/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/export</href>
-<viewFormat>
-f=image&amp;bboxSR=4326&amp;imageSR=4326&amp;format=png24&amp;transparent=true&amp;bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;size=[horizPixels],[vertPixels]&amp;
-</viewFormat>
-</Link>
-</NetworkLink>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+	<NetworkLink>
+	<open>1</open>
+	<name>FEMA_R2/Preliminary_FIRM_NYC</name>
+	<LookAt>
+	<longitude>-73.9843750937967</longitude>
+	<latitude>40.81398192344261</latitude>
+	<range>56449.45144021939</range>
+	</LookAt>
+	<Region>
+	<LatLonBox>
+	<north>40.93749989863604</north>
+	<south>40.46874987835384</south>
+	<east>-73.68750019017921</east>
+	<west>-74.28124999741419</west>
+	</LatLonBox>
+	<Lod>
+	<minLodPixels>128</minLodPixels>
+	<maxLodPixels>-1</maxLodPixels>
+	</Lod>
+	</Region>
+	<Link>
+	<viewRefreshMode>onStop</viewRefreshMode>
+	<viewRefreshTime>2</viewRefreshTime>
+	<href>http://regions.services.femadata.com/arcgis/rest/services/FEMA_R2/Preliminary_FIRM_NYC/MapServer/export</href>
+	<viewFormat>
+	f=image&amp;bboxSR=4326&amp;imageSR=4326&amp;format=png24&amp;transparent=true&amp;bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;size=[horizPixels],[vertPixels]&amp;
+	</viewFormat>
+	</Link>
+	</NetworkLink>
+  </Document>
 </kml>
